@@ -1,0 +1,12 @@
+COM.SC./17/001
+
+Madam,
+
+1. The Name of my website content folder is "stereobeep". Copy that entire folder in your Wampserver data file path. (Usually in the "www" subfolder in wamp64  main folder.
+	[ Ex:-  C:// --> wamp64 --> www ]
+
+2. The database name is "stereobeep.sql" . Import that DB into your phpmyadmin server. The Character set of the file is "utf-8" .
+
+3. Open the website from your wampserver "stereobeep" folder. 
+
+Thank you.
